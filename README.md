@@ -134,7 +134,18 @@ The objective of this guide is to demonstrate how to:
 **Your virtual disk is completely removed!**  
  
 ---
- 
+
+## OUTPUT
+### FOLDER WITH IMAGES BEFORE DELETING :
+![Screenshot (179)](https://github.com/user-attachments/assets/30c1da13-81f3-4f83-91e3-cbab18ed83ca)
+
+
+### RECOVERY USING AUTOPSY TOOL:
+![Screenshot (176)](https://github.com/user-attachments/assets/8758a12f-0955-4851-ac61-2bbc337de93d)
+
+### FOLDER AFTER RECOVERY OF DELETED IMAGES:
+![image](https://github.com/user-attachments/assets/7daa2e56-5860-4b28-922f-f3ab58105a50)
+
 
 ## Result :
  This guide covers creating a Virtual Hard Disk (VHD), adding, deleting, and recovering images using Autopsy, and safely deleting the virtual disk after the experiment.
